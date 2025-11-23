@@ -1,0 +1,11 @@
+streamlit
+numpy
+pandas
+plotly
+wordcloud
+matplotlib
+nltk
+spacy
+transformers
+torch
+en-core-web-sm
